@@ -2,7 +2,7 @@
 
 This repository contains the **Cosmic Pizza** prototype, built as a **slideware prototype** for rapid UX exploration. The application imagines a **space-themed gourmet pizza experience**, where ordering a pizza becomes an intergalactic journey.  
 
->📌 This project was approached as a mini UX case study, covering concept, task flows, design patterns, slideware prototyping, and iteration.  
+>📌 This project was approached as a UX case study, covering concept, task flows, design patterns, slideware prototyping, and iteration.  
 
 ---
 
