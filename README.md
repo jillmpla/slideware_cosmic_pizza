@@ -1,4 +1,4 @@
-# 🍕🌌 Cosmic Pizza – Slideware Prototype  
+# 🍕🌌 Cosmic Pizza - Slideware Prototype  
 
 This repository contains the **Cosmic Pizza** prototype, built as a **slideware prototype** for rapid UX exploration. The application imagines a **space-themed gourmet pizza experience**, where ordering a pizza becomes an intergalactic journey.  
 
