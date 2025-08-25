@@ -93,15 +93,15 @@ After an initial task walkthrough and **testing with three participants**, I mad
 
 - **Action buttons resized:**<br>
 Shrunk the purple footer buttons so they look more like true buttons rather than part of the layout.  
-- **Pricing transparency:**
+- **Pricing transparency:**<br>
 Added pizza prices to the "Create Your Pizza" screen, so users could better evaluate their order.  
-- **Step-by-step guidance:**
+- **Step-by-step guidance:**<br>
 Added "Step 1, Step 2…" labels in the builder to reinforce the list-builder pattern and guide users incrementally.  
-- **Confirmation page introduced:**
+- **Confirmation page introduced:**<br>
 Provided an order summary with stepper inputs for adjusting quantity, total price, and an exit option.  
-- **Progress indicator refined:**
+- **Progress indicator refined:**<br>
 Included mini pizza icons with refresh and exit options to show real-time order status.  
-- **Improved linking:**
+- **Improved linking:**<br>
 Added more complete linking between screens (and self-links), so accidental clicks wouldn't pull users away from the intended flow.  
 
 ---
@@ -110,10 +110,14 @@ Added more complete linking between screens (and self-links), so accidental clic
 
 From the **three test participants**, I observed several consistent themes:  
 
-- **User flow clarity** - some testers weren't sure how to move from selecting toppings to checkout, so I added clearer linking and instructions.  
-- **Orientation & navigation** - extra self-links were helpful in keeping users grounded within a screen.  
-- **Error prevention** - testers suggested disabling out-of-order selections (like toppings before crust). Future iterations could implement stronger error handling.  
-- **Inactive elements** - leaving inactive choices unlinked reduced confusion and improved flow consistency.  
+- **User flow clarity:**<br>
+Some testers weren't sure how to move from selecting toppings to checkout, so I added clearer linking and instructions.  
+- **Orientation & navigation:**<br>
+Extra self-links were helpful in keeping users grounded within a screen.  
+- **Error prevention:**<br>
+Testers suggested disabling out-of-order selections (like toppings before crust). Future iterations could implement stronger error handling.  
+- **Inactive elements:**<br>
+Leaving inactive choices unlinked reduced confusion and improved flow consistency.  
 
 ---
 
