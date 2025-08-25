@@ -92,11 +92,11 @@ Many online food ordering apps focus on speed and function, but lack delight and
 After an initial task walkthrough and **testing with three participants**, I made several changes to improve clarity and usability:  
 
 - **Action buttons resized** – shrunk the purple footer buttons so they look more like true buttons rather than part of the layout.  
-- **Pricing transparency** – added pizza prices to the “Create Your Pizza” screen so users could better evaluate their order.  
-- **Step-by-step guidance** – added “Step 1, Step 2…” labels in the builder to reinforce the list-builder pattern and guide users incrementally.  
+- **Pricing transparency** – added pizza prices to the "Create Your Pizza" screen, so users could better evaluate their order.  
+- **Step-by-step guidance** – added "Step 1, Step 2…" labels in the builder to reinforce the list-builder pattern and guide users incrementally.  
 - **Confirmation page introduced** – provided an order summary with stepper inputs for adjusting quantity, total price, and an exit option.  
 - **Progress indicator refined** – included mini pizza icons with refresh and exit options to show real-time order status.  
-- **Improved linking** – added more complete linking between screens (and self-links), so accidental clicks wouldn’t pull users away from the intended flow.  
+- **Improved linking** – added more complete linking between screens (and self-links), so accidental clicks wouldn't pull users away from the intended flow.  
 
 ---
 
