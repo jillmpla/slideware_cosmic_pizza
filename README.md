@@ -91,7 +91,7 @@ Many online food ordering apps focus on speed and function, but lack delight and
 
 After an initial task walkthrough and **testing with three participants**, I made several changes to improve clarity and usability:  
 
-- **Action buttons resized:**
+- **Action buttons resized:**<br>
 Shrunk the purple footer buttons so they look more like true buttons rather than part of the layout.  
 - **Pricing transparency:**
 Added pizza prices to the "Create Your Pizza" screen, so users could better evaluate their order.  
