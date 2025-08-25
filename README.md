@@ -2,7 +2,7 @@
 
 This repository contains the **Cosmic Pizza** prototype, built as a **slideware prototype** for rapid UX exploration. The application imagines a **space-themed gourmet pizza experience**, where ordering a pizza becomes an intergalactic journey.  
 
->📌 This project was approached as a UX case study, covering concept, task flows, design patterns, slideware prototyping, and iteration.  
+> 📌 This project was approached as a UX case study, covering concept, task flows, design patterns, slideware prototyping, and iteration.  
 
 ---
 
@@ -98,9 +98,9 @@ After an initial task walkthrough and **testing with three participants**, I mad
 
 From the **three test participants**, I observed several consistent themes:  
 
-- **User flow clarity** – some testers weren’t sure how to move from selecting toppings to checkout, so I added clearer linking and instructions.  
+- **User flow clarity** – some testers weren't sure how to move from selecting toppings to checkout, so I added clearer linking and instructions.  
 - **Orientation & navigation** – extra self-links were helpful in keeping users grounded within a screen.  
-- **Error prevention** – testers suggested disabling out-of-order selections (e.g., toppings before crust). Future iterations could implement stronger error handling.  
+- **Error prevention** – testers suggested disabling out-of-order selections (like toppings before crust). Future iterations could implement stronger error handling.  
 - **Inactive elements** – leaving inactive choices unlinked reduced confusion and improved flow consistency.  
 
 ---
@@ -118,9 +118,10 @@ From the **three test participants**, I observed several consistent themes:
 
 ## 📂 Repository Contents  
 
-- **cosmic_pizza_report.pdf** – Case study write-up (tasks, wireframes, design patterns, user notes).  
-- **cosmic_pizza_prototype.pdf** – Interactive slideware prototype file.  
+- **cosmic_pizza_sketches.png** – Early concept sketches of the prototype flow and theming.
+- **cosmic_pizza_final.pptx** – Editable slideware prototype file with all interactive linking.
+- **cosmic_pizza_final.pdf** – Exported slideware prototype for easy viewing and sharing.  
 
 ---
 
-> 📌 *Cosmic Pizza demonstrates how slideware prototyping can make ordering workflows fun, testable, and engaging—while validating usability patterns before high-fidelity design.*  
+> 📌 Cosmic Pizza demonstrates how slideware prototyping can make ordering workflows fun, testable, and engaging, while validating usability patterns before high-fidelity design. 
