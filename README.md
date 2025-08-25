@@ -25,6 +25,12 @@ Slideware prototypes help UX designers validate ideas early, before investing in
 
 ---
 
+## 🎨 Problem Space  
+
+Many online food ordering apps focus on speed and function, but lack delight and theme. The goal of Cosmic Pizza was to imagine how a playful, space-themed ordering experience could engage users while still being functional and clear.  
+
+---
+
 ## 🎯 Core Functionality  
 
 1. **Create Your Pizza**  
