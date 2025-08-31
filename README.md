@@ -8,7 +8,7 @@ This repository contains the **Cosmic Pizza** prototype, built as a **slideware 
 
 ## 📝 What is Slideware in UI/UX?  
 
-In the context of UI/UX and **rapid prototyping**, *slideware* refers to prototypes created using presentation tools (PowerPoint, Google Slides, etc.) rather than code.  
+In the context of UI/UX and **rapid prototyping**, *slideware* refers to prototypes created using presentation tools, such as PowerPoint, Google Slides, etc.  
 
 - **Purpose:** Quickly simulate flows and interfaces for early validation.  
 - **Speed:** Faster than high-fidelity prototyping tools.  
